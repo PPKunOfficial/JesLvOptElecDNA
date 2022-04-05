@@ -1,7 +1,7 @@
-id=<string>
-name=<string>
-version=<string>
-versionCode=<int>
-author=<string>
-description=<string>
-updateJson=<url> (非必选的)
+id=JesLvOptElecDNA
+name=Jesus-level optimized electronic DNA
+version=Version 1.0
+versionCode=100
+author=PPKun07
+description=Make your device's Elec DNA as same as ultimate device
+updateJson=https://cdn.jsdelivr.net/gh/PPKunOfficial/JesLvOptElecDNA@main/update.json
