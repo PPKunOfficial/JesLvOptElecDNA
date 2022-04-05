@@ -1,3 +1,3 @@
-# 事前准备
+#!/sbin/sh
+SKIPUNZIP=0
 AUTOMOUNT=true
-REPLACE=""
