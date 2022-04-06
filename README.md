@@ -1,2 +1,2 @@
-# MagiskModuleFormwork
-Magisk模块模板
+# JesusLvOptElecDNA
+耶稣级别电子DNA优化
