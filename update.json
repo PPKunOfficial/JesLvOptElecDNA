@@ -1,6 +1,6 @@
 {
-    "version": "V1.0",
-    "versionCode": 100,
-    "zipUrl": "https://endpoint.fastgit.org/https://github.com/PPKunOfficial/JesLvOptElecDNA/releases/download/ReleaseTest/release.zip",
+    "version": "V1.1",
+    "versionCode": 110,
+    "zipUrl": "https://endpoint.fastgit.org/https://github.com/PPKunOfficial/JesLvOptElecDNA/releases/download/Release/release.zip",
     "changelog": "https://cdn.jsdelivr.net/gh/PPKunOfficial/JesLvOptElecDNA@main/changelog"
 }
