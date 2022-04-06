@@ -1,6 +1,8 @@
 #!/sbin/sh
 SKIPUNZIP=0
 AUTOMOUNT=true
+MODDIR=${0%/*}
+cat $MODDIR/res/ElecDNA_desc
 exit
 COMP JESUSGO O3 POLLY TLTO
 # JESUS GO
